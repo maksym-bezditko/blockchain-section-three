@@ -1,5 +1,3 @@
-# Solidity Contracts README
-
 ## Overview
 This folder contains a set of example Solidity contracts demonstrating various features of the Solidity programming language. Each contract is designed to illustrate a specific concept or functionality within Ethereum smart contracts.
 
